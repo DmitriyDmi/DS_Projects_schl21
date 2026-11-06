@@ -11,7 +11,7 @@
 |DS3\_My\_Spotify|Введение в алгоритмы рекомендаций: неперсонализированные, контент-ориентированные, коллаборативная фильтрация.|[DS3\_My\_Spotify](https://github.com/DmitriyDmi/DS_Projects_schl21/blob/main/DS3_My_Spotify/src/main.ipynb)|
 |DS4\_Understanding\_customer|Введение в глубокое обучение и NLP: рекуррентные нейронные сети (RNN), LSTM, Transformer, BERT.|[DS4\_Understanding\_customer](https://github.com/DmitriyDmi/DS_Projects_schl21/blob/main/DS4_Understanding_customer/src/main.ipynb)|
 |DS5\_Uber|Введение в анализ временных рядов: стационарность, экспоненциальное сглаживание, SARIMA.|[DS5\_Uber](https://github.com/DmitriyDmi/DS_Projects_schl21/blob/main/DS5_Uber/src/main.ipynb)|
-|DS6\_City\_life|Введение в геопространственный анализ: GeoPandas, кластеризация, построение карт.|[DS5\_City\_life](https://nbviewer.org/github/DmitriyDmi/DS_Projects_schl21/blob/main/DS6_City_life/src/main.ipynb)|
+|DS6\_City\_life|Введение в геопространственный анализ: GeoPandas, кластеризация, построение карт.|[DS6\_City\_life](https://nbviewer.org/github/DmitriyDmi/DS_Projects_schl21/blob/main/DS6_City_life/src/main.ipynb)|
 <details>
 |DS7\_Amazon|Введение в Apache Spark (Python API) и анализ сетей и графов.|[DS7\_Amazon]()|
 |DS8\_Fried\_Eggs|Введение в глубокое обучение и компьютерное зрение: CNN, сегментация объектов, детекция объектов, разметка данных.|[DS8\_Fried\_Eggs]()|
